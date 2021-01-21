@@ -15,7 +15,7 @@ I would not use the ARMA or ARIMA models because their their p-values are greate
 Regression Analysis Conclusion
 ====================================
 
-The Out-of-Sample data is the Testing data, in which the model has NOT seen before. The Out-of-Sample Root Mean Squared Error (RMSE) to the thousandth is 0.415.
+The Out-of-Sample data is the Testing data, in which the model has NOT seen before. The Out-of-Sample Root Mean Squared Error (RMSE) rounded to the thousandth is 0.415.
 
 The In-Sample data is the Training data, in which the model has seen before. The In-Sample Root Mean Squared Error (RMSE) rounded to the thousandth is integ is 0.566.
 
